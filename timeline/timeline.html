@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keywords" content="H5,CSS3,bootstrap,vue,angular.js, react.js,Node.js, D3,Gulp,Webpack">
+    <link rel="shortcut icon" href="img/favicon.png">
+    <title>九次方大数据-前端研发</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <link href="../css/ie_8.css" rel="stylesheet"/>
+    <script src="../js/ie/html5shiv.js"></script>
+    <script src="../js/ie/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Add custom CSS here -->
+    <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../css/custom.css?v=1.0.0.2" rel="stylesheet">
+    <link href="../css/github-markdown.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/header.css" >
+    <style>
+        .timeline{color: #666D89;padding: 80px 0 20px 0;}
+        .year{clear: both;width: 300px;margin: 0 auto;}
+        .year ul,.year p,.year h2{margin:0;padding:0;}
+        .year h2 span{font-size:16px;display: inline-block;float: left;height: 20px;line-height: 20px;width: 70px;}
+        .year h2 .icon-year{display:inline-block;float:left;width:20px;height:20px;background:#fff;border:1px dashed #EB5055;border-radius: 100%;position:relative;}
+        .year h2 .icon-year i{display:block;width:12px;height:12px;background:#EB5055;border-radius:100%;position:absolute;top:0;left:0;right:0;bottom:0;margin:auto;}
+        .year .cls{display:block;width:100%;clear: both;}
+        .year .cls .date{display:inline-block;float:left;width: 80px;text-align: right;padding-right: 10px;line-height: 30px;}
+        .year .cls .info{display:inline-block;float:left;margin: 1px 0;}
+        .year .cls .info p{border-left: 1px dashed #666D89;padding-left: 10px;line-height:30px;argin: 1px 0;}
+        .year .cls .info .title{color:#666D89;}
+        .year .cls .info .intro{color: #999;font-weight: 200;font-size: 12px;}
+    </style>
+</head>
+
+<body data-spy="scroll" data-target="#ha-header">
+
+<!-- Fixed navbar -->
+<div class="header-wrapper">
+    <div class="container header header-small">
+        <div class="navbar-header">
+            <a class="navbar-brand logo" href="https://jusfoun-fe.github.io/">九次方前端</a>
+        </div>
+        <div id="cssmenu">
+            <ul>
+                <li class='active'><a  href="https://jusfoun-fe.github.io/">首页</a></li>
+                <li><a href='#'>规范须知</a>
+                    <ul>
+                        <li><a href="https://jusfoun-fe.github.io/index.html#services">代码规范</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/doc.html#dailySpecification">日常规范</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/doc.html#rules">入职注意事项</a></li>
+                    </ul>
+                </li>
+                <li><a href='#'>学习共享</a>
+                    <ul>
+                        <li class='has-sub'>
+                            <a href="#" >技术提升</a>
+                            <ul>
+                                <li><a href="https://jusfoun-fe.github.io/doc.html#cultivate">培训计划</a></li>
+                                <li><a href="https://jusfoun-fe.github.io/news.html">技术周刊</a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'>
+                            <a href="#">组件/工具</a>
+                            <ul>
+                                <li><a href="https://jusfoun-fe.github.io/JFE-library/" target="_blank">脚本库</a></li>
+                                <li><a href="https://zhu18.github.io/visualcontrols/#/map3d/world" target="_blank">可视化组件</a></li>
+                                <li><a href="http://img.9cfcf.com/#tp-scatter" target="_blank">图表配置</a></li>
+                                <li><a href="https://jusfoun-fe.github.io/projectManage/analysis.html">工作量计算</a></li>
+                                <li><a href="http://192.168.1.6:8765/texiao/" target="_blank">特效</a></li>
+                            </ul>
+                        </li>
+                        <li class='has-sub'>
+                            <a href="#" >信息反馈</a>
+                            <ul>
+                                <li><a href="https://jusfoun-fe.github.io/doc.html#questionnaire">组件库调查</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">项目管理</a>
+                    <ul>
+                        <li><a href="https://jusfoun-fe.github.io/doc.html#bugSuperviseScheme">bug监管方案</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/doc.html#qualitySupervision" >质量监管方案</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/doc.html#staticPage">前端静态化方案</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">关于我们</a>
+                    <ul>
+                        <li><a href="https://jusfoun-fe.github.io/index.html#portfolio">团队介绍</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/index.html#contact">加入我们</a></li>
+                        <li><a href="https://jusfoun-fe.github.io/timeline/timeline.html">大事记</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- End Fixed navbar -->
+<div class="timeline ha-waypoint" data-animate-down="ha-header-small" data-animate-up="ha-header-large">
+    <div class="container">
+        <div class="content">
+            <div class="wrapper">
+                <div class="main">
+                    <h1 class="title">大事件</h1>
+                    <div class="year">
+                        <h2 class="clearfix"><a href="javascript:void(0);"><span>2014年</span><i class="icon-year"><i></i></i></a></h2>
+                        <div class="list" style="height: 176px;">
+                            <ul>
+                                <li class="clearfix cls highlight">
+                                    <div class="date"><span>9月29日</span><i class="icon-date"></i></div>
+                                    <div class="clearfix info">
+                                        <p class="title">支持透明网桥准入技术；增加审计员日志；增加警报日志</p>
+                                        <p class="intro">简介</p>
+                                    </div>
+                                </li>
+                                <li class="clearfix cls highlight">
+                                    <div class="date"><span>9月29日</span><i class="icon-date"></i></div>
+                                    <div class="clearfix info">
+                                        <p class="title">支持透明网桥准入技术；增加审计员日志；增加警报日志</p>
+                                        <p class="intro">简介</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="year">
+                        <h2><a href="javascript:void(0);"><span>2013年</span><i class="icon-year"><i></i></i></a></h2>
+                        <div class="list" style="height: 83px;">
+                            <ul>
+                                <li class="clearfix cls">
+                                    <div class="date"><span>9月29日</span><i class="icon-date"></i></div>
+                                    <div class="clearfix info">
+                                        <p class="title">支持透明网桥准入技术；增加审计员日志；增加警报日志</p>
+                                        <p class="intro">简介</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-7 col-sm-12">
+                <p>版权所有 九次方大数据信息集团有限公司</p>
+            </div>
+            <div class="col-xs-12 col-md-5 col-sm-12">
+                <p>Copyright 2017 by Jusfoun.com. All Right Reserved</p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- /Footer -->
+<!-- JavaScript -->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/pace.min.js"></script> <!--page load progress bar-->
+<script src="../js/marked.min.js"></script>
+<script src="timeline.js?v=1.0.0"></script>
+<script src="../js/header.js"></script>
+</body>
+</html>

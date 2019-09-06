@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keywords" content="H5,CSS3,bootstrap,vue,angular.js, react.js,Node.js, D3,Gulp,Webpack">
+    <title>九次方大数据-前端研发</title>
+    <link rel="stylesheet" href="css/horsey.css">
+
+</head>
+
+<body>
+<input type="text" id="hy">
+</body>
+<script src="js/jquery.min.js"></script>
+<script src='js/horsey/horsey.js'></script>
+<script>
+$(document).ready(function () {
+
+    horsey(document.querySelector('#hy'), {
+        source: [{list: ['张三', '李四', '李明']}]
+    });
+
+});
+</script>
+</html>
