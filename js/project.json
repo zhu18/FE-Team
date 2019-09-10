@@ -10,7 +10,7 @@
   },
   {
     "name":"猎鹰⼤数据",
-    "url":" https://jusfoun-fe.github.io/lieying/?#/login",
+    "url":" https://idataink.github.io/lieying/?#/login",
     "img":"./img/Project/publicTeam/lieying.jpg",
     "technology":"vue,webpack,sass,echarts",
     "time":"2018年1月",
@@ -154,7 +154,7 @@
   },
   {
     "name":"猎鹰大数据",
-    "url":"https://jusfoun-fe.github.io/lieying/?#/login",
+    "url":"https://idataink.github.io/lieying/?#/login",
     "img":"./img/Project/twoTeam/lieying.jpg",
     "technology":"css3,echarts,elementUi,vue",
     "time":"2018年1月",
@@ -163,7 +163,7 @@
   },
   {
     "name":"宝鸡招商通",
-    "url":"https://jusfoun-fe.github.io/zs/#/accurateInvestment/home",
+    "url":"https://idataink.github.io/zs/#/accurateInvestment/home",
     "img":"./img/Project/threeTeam/zhaoshangpingtai.jpg",
     "technology":"vue,echarts",
     "time":"2018年1月",
@@ -250,7 +250,7 @@
   "txt":"丽江旅游大数据APP首页是H5页面制作，别的页面都是APP端开发的。"
 },{
   "name":"金融小场景-招商通",
-  "url":"https://jusfoun-fe.github.io/zhaoshangtong/index.html",
+  "url":"https://idataink.github.io/zhaoshangtong/index.html",
   "img":"./img/Project/twoTeam/zhaoshangtong.jpg",
   "technology":"vue,echarts",
   "time":"2017年8月",
@@ -266,7 +266,7 @@
   "txt":"为了避免传统采购模式的弊病，更好的体现公平竞争的原则，使政府采购物品价格公开化、透明化，呼和浩特市财政局引入了电商采购系统，通过连接诸多电商平台，引进更广泛的供应商，并实现与市场价的快速比较分析，保证政府采购商品的最高性价比，为管理单位和预算单位提供更为有效的监督手段。"
 },{
   "name":"丽江旅游大数据",
-  "url":"https://jusfoun-fe.github.io/travel/html",
+  "url":"https://idataink.github.io/travel/html",
   "img":"./img/Project/twoTeam/lijianglueyou.jpg",
   "technology":"jquery,echarts,layui",
   "time":"2017年5月",
@@ -282,15 +282,15 @@
   "txt":"对苹果大数据进行专题分析，旨在从全局的角度，对苹果大数据的应用方向、数据源、实施路径、应用效果、应用场景设计、可行性等方面提出实施方案，深入挖掘苹果大数据的价值。"
 },{
   "name":"质检大数据",
-  "url":"https://jusfoun-fe.github.io/zhijian/html/panoramaAnalysis.html",
+  "url":"https://idataink.github.io/zhijian/html/panoramaAnalysis.html",
   "img":"./img/Project/oneTeam/zhijian.jpg",
   "technology":"jquery,echarts",
   "time":"2016年",
   "type":"可视化",
   "txt":"质量监控，质量预警、质量检测事件等对企业进行质量监控和预警，展示各公司和各省的质量状况。"
 },{
-  "name":"九次方综合管理系统",
-  "url":"https://jusfoun-fe.github.io/weifang-government-affairs/html/index.html",
+  "name":"数墨综合管理系统",
+  "url":"https://idataink.github.io/weifang-government-affairs/html/index.html",
   "img":"./img/Project/oneTeam/zongheguanli.jpg",
   "technology":"jquery,css3",
   "time":"2016年11月",
@@ -298,23 +298,23 @@
   "txt":"潍坊政务服务大数据展示平台"
 },{
   "name":"工商大数据",
-  "url":"https://jusfoun-fe.github.io/business/newHtml/login.html",
+  "url":"https://idataink.github.io/business/newHtml/login.html",
   "img":"./img/Project/oneTeam/gongshang.jpg",
   "technology":"query,css3",
   "time":"2017年1月",
   "type":"PC",
   "txt":"利用工商全景大数据库构建市场监管风险预警机制，挖掘业务关联，精准定位监管难点重点，并通过“机器学习”模式自动生成处置建议，采取预防措施，合理调配监管力量，提高监管效率；通过可视化图表进行宏观经济趋势分析、经济结构调整分析、资本流动趋势预判、就业需求景气预测等在内的各类辅助决策信息支持与数据验证，帮助各级政府与职能部门提高政策决策能力与市场掌控能力。"
 },{
-  "name":"九次方民意云大数据平台",
+  "name":"数墨民意云大数据平台",
   "url":"https://yangyongguan.github.io/big-data/minyi/html/login.html",
   "img":"./img/Project/oneTeam/minyiyun.jpg",
   "technology":"jquery,echarts,handlebars",
   "time":"2017年4月",
   "type":"PC",
-  "txt":"九次方民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
+  "txt":"数墨民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
 },{
   "name":"涉税大数据平台",
-  "url":"https://jusfoun-fe.github.io/tax/dist/html/login/login.html",
+  "url":"https://idataink.github.io/tax/dist/html/login/login.html",
   "img":"./img/Project/oneTeam/sheshui.jpg",
   "technology":"jquery,echarts,layui",
   "time":"2017年4月",
@@ -322,7 +322,7 @@
   "txt":"随着“互联网 ”时代到来，税务机关在税收风险管理的模式将由传统依靠经验分析判断向大数据分析转变。在信息获取和风险分析方面将充分运用大数据分析和“互联网 ”技术，以便实时取得纳税人全方位的涉税信息。"
 },{
   "name":"金华电商大数据平台",
-  "url":"https://jusfoun-fe.github.io/jinhua",
+  "url":"https://idataink.github.io/jinhua",
   "img":"./img/Project/oneTeam/jinhuadianshang.jpg",
   "technology":"gulp,webpack,echarts,jquery",
   "time":"2016年",
@@ -330,7 +330,7 @@
   "txt":"该项目主要展示金华市电商的大数据，包括：店铺数量波动、税务登记、月销售额、行业销售趋势、电商舆情等数据展示。"
 },{
   "name":"寰球大数据官网",
-  "url":"https://jusfoun-fe.github.io/huanqiuweb",
+  "url":"https://idataink.github.io/huanqiuweb",
   "img":"./img/Project/oneTeam/huanqiu.jpg",
   "technology":"jquery,css3",
   "time":"2017年7月",
@@ -338,23 +338,23 @@
   "txt":"寰球大数据官网是一个提供产品与服务，展示公司所做的大数据平台，以及提供行业解决方案和数据研究院提供的专业数据报告。"
 },{
   "name":"融合平台",
-  "url":"https://jusfoun-fe.github.io/fusion",
+  "url":"https://idataink.github.io/fusion",
   "img":"./img/Project/publicTeam/fusion.jpg",
   "technology":"jquery,css3,echarts,SVG,bootstrap",
   "time":"2017年5月",
   "type":"可视化",
   "txt":"数据采集、共享交互、数据清洗、建模分析一体的大数据共享融合平台；对汇聚到平台的数据进行编目，将数据目录化（可以把资源目录理解为一本书的目录，数据就是书中的内容），便于对外提供数据服务"
 },{
-  "name":"九次方官网2.0",
-  "url":"https://jusfoun-fe.github.io/jusfoun",
-  "img":"./img/Project/publicTeam/jusfoun.jpg",
+  "name":"数墨官网2.0",
+  "url":"https://idataink.github.io/idataink",
+  "img":"./img/Project/publicTeam/idataink.jpg",
   "technology":"jquery,css3,echarts,SVG,bootstrap",
   "time":"2016年3月",
   "type":"PC",
-  "txt":"九次方大数据（JUSFOUN BIGDATA)是中国领先的大数据服务公司。秉承“贡献中国数据智慧，释放全球数据价值”的发展理念，致力于推动政府数据公开及数据交易，挖掘各个产业的大数据价值及大数据应用。"
+  "txt":"数墨（idataink BIGDATA)是中国领先的大数据服务公司。秉承“贡献中国数据智慧，释放全球数据价值”的发展理念，致力于推动政府数据公开及数据交易，挖掘各个产业的大数据价值及大数据应用。"
 },{
   "name":"安易行app",
-  "url":"./phone.html?url=https://jusfoun-fe.github.io/big-data/slb/index.html",
+  "url":"./phone.html?url=https://idataink.github.io/big-data/slb/index.html",
   "img":"./img/Project/threeTeam/anyihangapp.jpg",
   "technology":"vue,webpack,mintui",
   "time":"2017年9月",
@@ -362,7 +362,7 @@
   "txt":"出国安全预警，困难求助，团队管理出国安全预警，困难求助，团队管理"
 },{
   "name":"钢铁大数据",
-  "url":"https://jusfoun-fe.github.io/steelBigData",
+  "url":"https://idataink.github.io/steelBigData",
   "img":"./img/Project/threeTeam/gangtie.jpg",
   "technology":"echarts,jquery",
   "time":"2016年9月",
@@ -370,7 +370,7 @@
   "txt":"钢铁供应链金融大数据，可视化监视，方案决策"
 },{
   "name":"溯源大数据",
-  "url":"https://jusfoun-fe.github.io/originPlatform/html/index/index/dataStatistics.html",
+  "url":"https://idataink.github.io/originPlatform/html/index/index/dataStatistics.html",
   "img":"./img/Project/threeTeam/suyuan.jpg",
   "technology":"jquery,echarts,layui",
   "time":"2017年7月",
@@ -378,7 +378,7 @@
   "txt":"提供农产品监管大数据展示，为政府提供决策"
 },{
   "name":"星购互动云经纪大数据平台",
-  "url":"https://jusfoun-fe.github.io/xghd/#/",
+  "url":"https://idataink.github.io/xghd/#/",
   "img":"./img/Project/oneTeam/xinggouhudong.jpg",
   "technology":"vue,echarts",
   "time":"2017年7月",

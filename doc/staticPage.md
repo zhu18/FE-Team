@@ -10,7 +10,7 @@
    
    2.提交成功后进入管理页面点击setting修改git page，将git page修改master分支，保存后点击生成的访问路径
    
-   3，提供项目名称，一张600 * 470的图片(注意压缩) ，项目说明，所用技术 及github地址 在[官网静态化配置md](https://github.com/jusfoun-FE/jusfoun-FE.github.io/blob/master/project/9cf.md)中配置此MD文件，新增的项目在写在上面。
+   3，提供项目名称，一张600 * 470的图片(注意压缩) ，项目说明，所用技术 及github地址 在[官网静态化配置md](https://github.com/idataink/idataink.github.io/blob/master/project/9cf.md)中配置此MD文件，新增的项目在写在上面。
  
    4，项目静态化 每周一检查，在项目管理中已完结的项目都要加入到项目静态化中。
 

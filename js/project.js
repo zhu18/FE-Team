@@ -122,7 +122,7 @@ function ajaxData() {
             })
             //跳转到md文件
             $("#project-edit-link").click(function () {
-                $(this).attr("href", "https://github.com/jusfoun-FE/jusfoun-FE.github.io/edit/master/project/" + "9cf.md");
+                $(this).attr("href", "https://github.com/idataink/idataink.github.io/edit/master/project/" + "9cf.md");
             })
 
         }

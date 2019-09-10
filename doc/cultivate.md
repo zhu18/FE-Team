@@ -40,7 +40,7 @@
      3、怎么配置webpack.config.js文件
      
 
-### [VUE 模板基础培训（一）](https://github.com/jusfoun-FE/spa-development-pc)
+### [VUE 模板基础培训（一）](https://github.com/idataink/spa-development-pc)
 时间：2017年10月19日(星期四) 18:00
 
 地点：四楼大会议室

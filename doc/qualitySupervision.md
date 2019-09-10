@@ -23,20 +23,20 @@
 
    2.首页展示内容：项目列表(项目具体情况)、人员分配情况统计图、项目状态统计图、bug情况统计图、项目类型统计图、项目人员投入统计图。
 
-   3.演示地址：https://jusfoun-fe.github.io/projectManage/
+   3.演示地址：https://idataink.github.io/projectManage/
 
   * #### 新增项目及更新
    1.新增项目
 
    项目代码：在\\\192.168.1.6\前端站点\qualitySites下新建文件夹，英文命名，存放项目代码。
 
-   项目json:https://github.com/jusfoun-FE/projectManage/tree/master/configInfo 复制json模板.json,命名为项目名称(中文)，根据相应提示填写项目信息。
+   项目json:https://github.com/idataink/projectManage/tree/master/configInfo 复制json模板.json,命名为项目名称(中文)，根据相应提示填写项目信息。
 
    2.更新项目
 
    项目代码：在\\\192.168.1.6\前端站点\qualitySites 对应项目文件夹，放入最新代码。每天18点之前进行更新，根据项目实际情况。
 
-   项目json：https://jusfoun-fe.github.io/projectManage/ 找见对应项目，点击github按钮进行修改。每天18点之前必须更新，更新内容包括项目状态、项目进度，若已提测，bug情况也需更新。根据项目情况更新相关时间、项目参与人、是否延期。
+   项目json：https://idataink.github.io/projectManage/ 找见对应项目，点击github按钮进行修改。每天18点之前必须更新，更新内容包括项目状态、项目进度，若已提测，bug情况也需更新。根据项目情况更新相关时间、项目参与人、是否延期。
 
   所有操作完成后，需要进行审核才能看见效果。
 

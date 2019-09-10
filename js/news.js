@@ -14,7 +14,7 @@ $(document).ready(function () {
     //初始化加载最新一期周刊内容，
     //getContentData(urlParam);
     //编辑周刊内容的icon链接
-    $("#news-edit-link").attr("href","https://github.com/jusfoun-FE/jusfoun-FE.github.io/edit/master/news/"+urlParam+".md");
+    $("#news-edit-link").attr("href","https://github.com/idataink/idataink.github.io/edit/master/news/"+urlParam+".md");
 
     //MORE按钮点击显示更多-弹窗
     $(".markdown-list-more-btn").click(function(){

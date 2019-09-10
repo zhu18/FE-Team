@@ -46,12 +46,12 @@ $(document).ready(function () {
         $(this).parent().addClass("active");
 
         //编辑内容的icon链接
-        $("#doc-edit-link").attr("href","https://github.com/jusfoun-FE/jusfoun-FE.github.io/edit/master/doc/"+urlParam+".md");
+        $("#doc-edit-link").attr("href","https://github.com/idataink/idataink.github.io/edit/master/doc/"+urlParam+".md");
 
     });
 
     //编辑内容的icon链接
-    $("#doc-edit-link").attr("href","https://github.com/jusfoun-FE/jusfoun-FE.github.io/edit/master/doc/"+urlParam+".md");
+    $("#doc-edit-link").attr("href","https://github.com/idataink/idataink.github.io/edit/master/doc/"+urlParam+".md");
 
 });
 
